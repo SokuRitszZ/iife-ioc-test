@@ -1,0 +1,1 @@
+export const container = new Map<string, any>();
